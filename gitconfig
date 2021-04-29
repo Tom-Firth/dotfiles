@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = tom1.webdev@gmail.com
-	name = Thomas COLOMBET
+	email = tom1.devweb@gmail.com
+	name = Thomas Colombet
